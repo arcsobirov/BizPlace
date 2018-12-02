@@ -1,0 +1,41 @@
+body {
+	font-family: Arial;
+	margin: 0;
+	box-sizing: border-box;
+}
+header {
+	width: 100%;
+	border-bottom: 1px solid grey;
+	box-shadow: 0px 0px 15px -1px grey;
+	z-index: 2;
+	padding: 20px 25px;
+}
+.wrapper {
+	display: flex;
+	box-sizing: border-box;
+}
+.back-button {
+	background: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial;
+    color: #2196F3;
+    border-radius: 4px;
+    box-shadow: 0px 0px 4px 0px grey;
+}
+.header-block {
+	float: left;
+}
+.header-logo {
+	text-align: center;
+	display: block;
+	margin: auto;
+}
+.logotip {
+	width: 60px; 
+}
+.logo-text {
+	
+}

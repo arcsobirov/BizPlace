@@ -1,0 +1,1 @@
+http://data.gov.uz/ru/api/v1/json/dataset?access_key=
